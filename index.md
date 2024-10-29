@@ -72,7 +72,10 @@ Project Introduction:
   Was responsible for: 
   - Optimize the workflow using RAG.
   - Fine-tune the large language model for bad case.
-<br> 
+ 
+<br>
+
+
 ### Competitions(*COMPETITIONS* Tab Detail)
 
 - *Sailboat Price Prediction Model - XGBoost Based on SA Split Strategy*.
