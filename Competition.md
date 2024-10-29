@@ -3,7 +3,7 @@ layout: page
 permalink: /Competition/index.html
 title: Competitions
 ---
-*I am honored that you would be interested in my experience with mathematical modeling and data mining competitions!*<br>
+<br>*I am honored that you would be interested in my experience with mathematical modeling and data mining competitions!*<br>
 
 ***I have selected some of the results I have achieved from the competitions I have entered.***
 
