@@ -31,7 +31,7 @@ each prediction task.
 <img src="/images/Fig_ISFormer_resut.png" > 
 
 
-### A Dynamic Cost-Adjusted Adacost Model for Credit Scoring of Smallholder Farmers[First Author]
+### A Dynamic Cost-Adjusted Adacost Model for Credit Scoring of Smallholder Farmers[Second Author]
 **Abstract:**  Credit scoring models have been constrained by the problem of data imbalance. In this paper, we propos
 e a dynamic cost-adjusted Adacost credit scoring model to improve its prediction accuracy. This model enriches th
 e existing research methods on credit problems of smallholder farmers and opens up new avenues for the establish
