@@ -78,8 +78,12 @@ Project Introduction:
 
 ### Competitions(*COMPETITIONS* Tab Detail)
 
-- *Sailboat Price Prediction Model - XGBoost Based on SA Split Strategy*.
-<img src="/images/boat_price.png">
+
+<img src="images/mcm.png">
+<br><br>
+<img src="images/teddy.png">
+<br><br>
+<img src="images/ruisi.png">
 
 
 
