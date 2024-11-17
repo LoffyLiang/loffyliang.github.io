@@ -5,7 +5,7 @@ layout: page
 # About Me
 Here is **Luofei Liang**.
 
-I earned a 4-year BS in <font color='#87CEEB'>data science and big data technology</font> at Tianjin university of commence with a GPA of 4.01 out of 5.0(90/100) and ranked 1/66 of my major. Currently,I  am  studying for a master's degree in <font color='#87CEEB'>mathematics</font> at <font color='#7C17D4'>the Chinese University of Hong Kong(QS Ranking 36)</font>.
+I earned a 4-year BS in <font color='#87CEEB'>data science and big data technology</font> at Tianjin university of commerce with a GPA of 4.01 out of 5.0(90/100) and ranked 1/66 of my major. Currently,I  am  studying for a master's degree in <font color='#87CEEB'>mathematics</font> at <font color='#7C17D4'>the Chinese University of Hong Kong(QS Ranking 36)</font>.
 
 <br>
 
